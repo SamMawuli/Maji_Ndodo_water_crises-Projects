@@ -1,6 +1,8 @@
 # Maji_Ndodo_water_crises-Projects
 The Maji Ndogo Project is a comprehensive initiative aimed at ensuring the sustainability and quality of water resources in underdeveloped regions. The project employs data-driven methodologies to monitor, audit, and report on water quality, as well as the effectiveness of water services across various locations.
-Project Structure
+
+**Project Structure**
+
 The project is divided into several phases, each focused on different aspects of data management and analysis:
 
 Data Collection: Field teams gather water quality data from various locations. This data includes subjective quality scores and detailed observations from local residents.
@@ -13,7 +15,8 @@ Analysis and Reporting: Complex queries are developed to analyze the data, ident
 
 Actionable Insights: The project culminates in actionable recommendations based on the analysis, with the goal of improving water services and ensuring data accuracy.
 
-Key Features
+**Key Features**
+
 Entity-Relationship Diagram (ERD) Analysis: The project includes a detailed ERD analysis to understand the structure and relationships within the database, crucial for linking records accurately.
 
 Error Detection and Correction: A significant focus is placed on detecting errors in data entry and correcting these to maintain high data integrity (identifying discrepancies between employee-recorded scores and auditor-verified scores.)
@@ -22,7 +25,8 @@ Employee Performance Monitoring: Tracks the performance of individual employees,
 
 Corruption Detection: Advanced queries are used to detect potential corruption by analyzing patterns in employee mistakes and cross-referencing them with audits.
 
-Database Structure
+**Database Structure**
+
 The core tables in the Maji Ndogo Project database include:
 
 Visits Table: Logs all visits to water locations, including timestamps and employee assignments.
